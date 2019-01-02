@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CalculateDataWhenUnknown:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculateDataWhenUnknown_jar</output-path>
+    <root id="archive" name="CalculateDataWhenUnknown.jar">
+      <element id="module-output" name="CalculateDataWhenUnknown" />
+    </root>
+  </artifact>
+</component>
