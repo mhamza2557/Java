@@ -13,7 +13,7 @@
 
 :red_circle: git add . (if folder)
    
-red_circle:o: git add (filename.extension)
+:red_circle: git add (filename.extension)
 
 :six:. git commit -m"Comment Here"
 
@@ -21,18 +21,24 @@ red_circle:o: git add (filename.extension)
 
 
 ## Deleting Folder
-```
-1. Create 'New Folder'
-2. Open 'New Folder' then right-click to open 'Git Bash Here'
-3. git clone (https:// address here)
-4. Close 'git bash'
-5. 'New Folder' into git folder then right-click to open 'Git Bash Here'.
-6. ls
-7. git rm -r --cached 'Folder Name'
-8. git commit -m"Comment Here"
-9. git push origin master
-```
 
+:one:. Create 'New Folder'
+
+:two:. Open 'New Folder' then right-click to open 'Git Bash Here'
+
+:three:. git clone (https:// address here)
+
+:four:. Close 'git bash'
+
+:five:. 'New Folder' into git folder then right-click to open 'Git Bash Here'.
+
+:six:. ls
+
+:seven:. git rm -r --cached 'Folder Name'
+
+:eight:. git commit -m"Comment Here"
+
+:nine:. git push origin master
 
 
 
