@@ -1,5 +1,6 @@
-# Git Bash 
+# Git Bash :+1:
 ## Adding Files/Folder
+```
 1. Create 'New Folder'
 2. Open 'New Folder' then right-click to open 'Git Bash Here'
 3. git clone (https:// address here)
@@ -9,8 +10,10 @@
     - git add (filename.extension)
 8. git commit -m"Comment Here"
 9. git push.
+```
 
 ## Deleting Folder
+```
 1. Create 'New Folder'
 2. Open 'New Folder' then right-click to open 'Git Bash Here'
 3. git clone (https:// address here)
@@ -20,7 +23,7 @@
 7. git rm -r --cached 'Folder Name'
 8. git commit -m"Comment Here"
 9. git push origin master
-
+```
 
 
 
