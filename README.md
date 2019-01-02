@@ -1,51 +1,50 @@
-# Git Bash :+1:
+# Git Bash :100:
 ## Adding Files/Folder
 
 :one: Create 'New Folder'
 
-:two:. Open 'New Folder' then right-click to open 'Git Bash Here'
+:two: Open 'New Folder' then right-click to open 'Git Bash Here'
 
-:three:. git clone (https:// address here)
+:three: git clone (https:// address here)
 
-:four:. Close 'git bash'
+:four: Close 'git bash'
 
-:five:. 'New Folder' into git folder then right-click to open 'Git Bash Here'
+:five: 'New Folder' into git folder then right-click to open 'Git Bash Here'
 
 :red_circle: git add . (if folder)
    
 :red_circle: git add (filename.extension)
 
-:six:. git commit -m"Comment Here"
+:six: git commit -m"Comment Here"
 
-:seven:. git push.
+:seven: git push.
 
 
 ## Deleting Folder
 
-:one:. Create 'New Folder'
+:one: Create 'New Folder'
 
-:two:. Open 'New Folder' then right-click to open 'Git Bash Here'
+:two: Open 'New Folder' then right-click to open 'Git Bash Here'
 
-:three:. git clone (https:// address here)
+:three: git clone (https:// address here)
 
-:four:. Close 'git bash'
+:four: Close 'git bash'
 
-:five:. 'New Folder' into git folder then right-click to open 'Git Bash Here'.
+:five: 'New Folder' into git folder then right-click to open 'Git Bash Here'.
 
-:six:. ls
+:six: ls
 
-:seven:. git rm -r --cached 'Folder Name'
+:seven: git rm -r --cached 'Folder Name'
 
-:eight:. git commit -m"Comment Here"
+:eight: git commit -m"Comment Here"
 
-:nine:. git push origin master
+:nine: git push origin master
 
+# Install in Ubuntu using Command :computer:
+:one: sudo add-apt-repository ppa:ubuntuhandbook1/apps
 
+:two: sudo apt update
 
+:three: sudo snap install intellij-idea-community
 
-# Java
-## Install in Ubuntu using Command
-1. sudo add-apt-repository ppa:ubuntuhandbook1/apps
-2. sudo apt update
-3. sudo snap install intellij-idea-community
-4. sudo apt install intellij-idea-community
+:four: sudo apt install intellij-idea-community
