@@ -1,7 +1,7 @@
 # Git Bash :+1:
 ## Adding Files/Folder
 ```
-1. Create 'New Folder'
+:one: Create 'New Folder'
 2. Open 'New Folder' then right-click to open 'Git Bash Here'
 3. git clone (https:// address here)
 4. Close 'git bash'
