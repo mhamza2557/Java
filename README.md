@@ -4,10 +4,10 @@
 3. git clone (https:// address here).
 4. Close 'git bash'
 5. 'New Folder' into git folder then right-click to open 'Git Bash Here'. 
-        6(a). git add .(if folder). 
-        6(b). git add (filename.extension).
-7. git commit -m"Comment Here".
-8. git push.
+6. git add .(if folder). 
+7. git add (filename.extension).
+8. git commit -m"Comment Here".
+9. git push.
 
 
 
