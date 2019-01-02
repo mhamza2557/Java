@@ -1,4 +1,4 @@
-# Git Bash :100:
+# Git Bash :100: COMMANDS :book:
 ## Adding Files/Folder
 
 :one: Create 'New Folder'
