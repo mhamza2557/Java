@@ -40,7 +40,7 @@
 
 :nine: git push origin master
 
-# Install in Ubuntu using Command :computer:
+# :memo: IntelliJ install in Ubuntu using Command :computer:
 :one: sudo add-apt-repository ppa:ubuntuhandbook1/apps
 
 :two: sudo apt update
