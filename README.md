@@ -1,16 +1,24 @@
 # Git Bash :+1:
 ## Adding Files/Folder
-```
+
 :one: Create 'New Folder'
-2. Open 'New Folder' then right-click to open 'Git Bash Here'
-3. git clone (https:// address here)
-4. Close 'git bash'
-5. 'New Folder' into git folder then right-click to open 'Git Bash Here'
-    - git add . (if folder)
-    - git add (filename.extension)
-8. git commit -m"Comment Here"
-9. git push.
-```
+
+:two:. Open 'New Folder' then right-click to open 'Git Bash Here'
+
+:three:. git clone (https:// address here)
+
+:four:. Close 'git bash'
+
+:five:. 'New Folder' into git folder then right-click to open 'Git Bash Here'
+
+:red_circle: git add . (if folder)
+   
+red_circle:o: git add (filename.extension)
+
+:six:. git commit -m"Comment Here"
+
+:seven:. git push.
+
 
 ## Deleting Folder
 ```
